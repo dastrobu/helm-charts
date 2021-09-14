@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  environment-variables:
+  - apiVersion: v2
+    created: "2021-09-14T18:46:26.756307+02:00"
+    description: A library chart to handle environment variables.
+    digest: b28d7a2c9410b0d833731d9319addee1d032c948cfddab34fa4d866f258cbc12
+    name: environment-variables
+    type: library
+    urls:
+    - environment-variables-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-09-14T18:46:26.755799+02:00"
